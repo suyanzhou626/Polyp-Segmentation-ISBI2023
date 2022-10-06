@@ -3,7 +3,7 @@
 Code will be released if the paper is accepted by ISBI2023.
 
 ## Model parameters VS inference speed
-![speed](figs/param_fps.pdf)
+![result](https://github.com/suyanzhou626/Polyp-Segmentation-ISBI2023/blob/main/figs/params_vs_fps.png?raw=true)
 
 
 
@@ -18,3 +18,6 @@ Code will be released if the paper is accepted by ISBI2023.
 
 ### Quantitative results of different methods on multiply-add operations (MACs), model parameters (Params), and Speed (FPS).
 ![result](https://github.com/suyanzhou626/Polyp-Segmentation-ISBI2023/blob/main/figs/model_parameters_MACs_FPS.png?raw=true)
+
+## Visualization
+![result](https://github.com/suyanzhou626/Polyp-Segmentation-ISBI2023/blob/main/figs/visualize_model_prediction.png?raw=true)
