@@ -5,10 +5,6 @@ Code will be released if the paper is accepted by ISBI2023.
 ## Model parameters VS inference speed
 ![result](https://github.com/suyanzhou626/Polyp-Segmentation-ISBI2023/blob/main/figs/params_vs_fps.png?raw=true)
 
-
-
-
-
 ## Experiments
 ### Quantitative results on learning ability.
 ![result](https://github.com/suyanzhou626/Polyp-Segmentation-ISBI2023/blob/main/figs/learning%20ability.png?raw=true)
