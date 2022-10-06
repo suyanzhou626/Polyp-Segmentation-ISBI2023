@@ -17,9 +17,13 @@ Code will be released if the paper is accepted by ISBI2023.
 
 Note: we eval the speed in a PC with GeForce 1080Ti, the code for eval speed can be found in [here](https://github.com/suyanzhou626/Polyp-Segmentation-ISBI2023/blob/main/utils/eval_speed.py) .
 
+## Prediction Result
+The prediction result is place at [here](https://github.com/suyanzhou626/Polyp-Segmentation-ISBI2023/tree/main/result_map). Everyone can compared it with other methods.
 
 ## Visualization
 ![result](https://github.com/suyanzhou626/Polyp-Segmentation-ISBI2023/blob/main/figs/visualize_model_prediction.png?raw=true)
+
+
 
 
 ## Thanks to the repo
